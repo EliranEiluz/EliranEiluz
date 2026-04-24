@@ -19,7 +19,3 @@ Software Engineer at **Check Point** — LLM-driven systems that turn CVE report
 
 Python (primary) · TypeScript / React · C/C++ · FastAPI · Docker · AWS · Anthropic & Azure OpenAI · Applied crypto (ORAM, MPC, ZK).
 
-#### Open to
-
-Cryptography / ZK / MPC / FHE / confidential-computing research-engineering roles. Israel or remote.
-[eliranfr1@gmail.com](mailto:eliranfr1@gmail.com) · [LinkedIn](https://linkedin.com/in/eliranei)
