@@ -1,6 +1,6 @@
 ### Eliran Eiluz
 
-Cryptography researcher and software engineer. M.Sc. from Bar-Ilan, under [Prof. Gilad Asharov](https://asharov.faculty.biu.ac.il/). I split my time between theoretical cryptography and shipping production systems.
+Cryptography researcher and software engineer. M.Sc. from Bar-Ilan, under Prof. Gilad Asharov. I split my time between theoretical cryptography and shipping production systems.
 
 ---
 
