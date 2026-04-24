@@ -1,6 +1,6 @@
 ### Eliran Eiluz
 
-Cryptography researcher and software engineer. M.Sc. from Bar-Ilan, under Prof. Gilad Asharov. I split my time between theoretical cryptography and shipping production systems.
+Cryptography Researcher and Software Engineer. M.Sc. from Bar-Ilan, under Prof. Gilad Asharov. I split my time between theoretical cryptography and code development.
 
 ---
 
@@ -13,7 +13,7 @@ Three artifact badges — *Available · Functional · Reproduced*. Presented at 
 
 #### Building
 
-Software Engineer at **Check Point** — LLM-driven systems that turn CVE reports into production IPS detection rules, plus internal AI tooling for the security research team. Python · FastAPI · React · AWS.
+Software Engineer at **Check Point** — LLM-driven systems, plus internal tooling for the security research team. Python · FastAPI · React · AWS.
 
 #### Stack
 
